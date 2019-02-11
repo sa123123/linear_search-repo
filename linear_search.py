@@ -1,3 +1,4 @@
+# to search an element in given list...
 items = [5, 7, 10, 12, 15]
  
 print("list of items is", items)
